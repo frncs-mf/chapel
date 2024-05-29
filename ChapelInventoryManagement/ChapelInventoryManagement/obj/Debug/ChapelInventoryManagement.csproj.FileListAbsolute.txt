@@ -1,0 +1,13 @@
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\bin\Debug\aims.mdb
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\bin\Debug\ChapelInventoryManagement.exe.config
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\bin\Debug\ChapelInventoryManagement.exe
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\bin\Debug\ChapelInventoryManagement.pdb
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.csproj.AssemblyReference.cache
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.Borrow.resources
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.frmItems.resources
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.frmLogin.resources
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.Properties.Resources.resources
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.csproj.GenerateResource.cache
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.csproj.CoreCompileInputs.cache
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.exe
+D:\MIGUEL\New folder\ChapelInventoryManagement\ChapelInventoryManagement\obj\Debug\ChapelInventoryManagement.pdb
